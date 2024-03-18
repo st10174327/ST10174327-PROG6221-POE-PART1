@@ -12,12 +12,13 @@ The Recipe Application is a console-based program designed to manage, scale, and
 To use the Recipe Application, follow these steps:
 
 1. **Clone or Download**: Get the source code by cloning the repository or downloading the files.
+2. https://github.com/st10174327/ST10174327-PROG6221-POE-PART1.git
 
-2. **Open in Development Environment**: Open the solution in your preferred development environment (e.g., Visual Studio).
+3. **Open in Development Environment**: Open the solution in your preferred development environment (e.g., Visual Studio).
 
-3. **Build the Solution**: Compile the code to ensure it's ready for execution.
+4. **Build the Solution**: Compile the code to ensure it's ready for execution.
 
-4. **Run the Program**: Execute the program to access its functionalities.
+5. **Run the Program**: Execute the program to access its functionalities.
 
 ## Usage
 
