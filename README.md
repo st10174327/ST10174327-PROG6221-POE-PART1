@@ -1,5 +1,5 @@
 # ST10174327-PROG6221-POE-PART1
-Certainly! Here's a regenerated version of the documentation for your Recipe Application:
+
 
 ---
 
@@ -53,4 +53,3 @@ The Recipe Application is open source and distributed under the [MIT License](LI
 
 ---
 
-Feel free to adjust the documentation further to meet your requirements!
